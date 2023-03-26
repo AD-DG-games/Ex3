@@ -1,1 +1,2 @@
-"# [Ex3" ](https://dvirgev.itch.io/ex3)
+# Ex3
+Link for the game: https://dvirgev.itch.io/ex3
