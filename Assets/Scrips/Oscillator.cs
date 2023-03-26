@@ -29,6 +29,6 @@ public class Oscillator : MonoBehaviour
         transform.position += new Vector3(xSpeed, ySpeed, 0);
 
         // Increment the x variable by a small value (0.001f) to update its speed for the next frame.
-        x += 0.001f;
+        x += 0.01f;
     }
 }

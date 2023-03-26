@@ -21,6 +21,6 @@ public class BigAndSmall : MonoBehaviour
     void Update()
     {
         transform.localScale += new Vector3(0.001f, 0.001f, 0.001f) * Mathf.Cos(x) * speed;
-        x += 0.001f;
+        x += 0.01f;
     }
 }
