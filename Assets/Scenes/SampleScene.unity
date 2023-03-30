@@ -614,7 +614,7 @@ GameObject:
   - component: {fileID: 1120009175}
   - component: {fileID: 1120009174}
   m_Layer: 0
-  m_Name: Names_ApeerAndDisApeer
+  m_Name: Names_AppearAndDisappear
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -640,9 +640,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Apeer And DisApeer
+  m_text: 'Appear And Disappear
 
-    (perss "space")
+    (press "space")
 
 '
   m_isRightToLeft: 0
